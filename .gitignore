@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Local environment variables
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Optional: if using TypeScript
+*.tsbuildinfo
+
+# Optional: if using coverage tools
+coverage/
